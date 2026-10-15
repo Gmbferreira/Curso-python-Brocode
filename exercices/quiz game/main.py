@@ -34,9 +34,9 @@ for question in questions:
 
 print ("--------------------------")
 print ("RESULTS")
-PRINT ("--------------------------")
+print ("--------------------------")
 
-PRINT("Answers: ", end="")
+print("Answers: ", end="")
 for answer in answers:
     print (answer, end=" ")
 print()
